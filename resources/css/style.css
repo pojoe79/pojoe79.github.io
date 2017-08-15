@@ -1,3 +1,27 @@
 #background {
 	background-color: black;
+	text-align: center;
+}
+
+h1,
+p,
+a {
+    font-family: Verdana;
+}
+
+a,
+p {
+	font-size: 21px;
+}
+
+h1 {
+	color: white;
+}
+
+a {
+	color: aquamarine;
+}
+
+p {
+	color: gray;
 }
