@@ -9,6 +9,10 @@ a {
     font-family: Verdana;
 }
 
+h1 {
+	font-size: 50px;
+}
+
 a,
 p {
 	font-size: 21px;
@@ -27,8 +31,8 @@ p {
 	color: gray;
 }
 
+
 #guide h2 {
-	
 	font-size: 42px;
 	font-weight: 300;
 }
