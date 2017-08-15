@@ -26,3 +26,9 @@ a {
 p {
 	color: gray;
 }
+
+#guide h2 {
+	
+	font-size: 42px;
+	font-weight: 300;
+}
